@@ -1,0 +1,37 @@
+{
+    "name": "@types/whatwg-url",
+    "version": "11.0.3",
+    "description": "TypeScript definitions for whatwg-url",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/whatwg-url",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Alexander Marks",
+            "githubUsername": "aomarks",
+            "url": "https://github.com/aomarks"
+        },
+        {
+            "name": "ExE Boss",
+            "githubUsername": "ExE-Boss",
+            "url": "https://github.com/ExE-Boss"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender",
+            "url": "https://github.com/BendingBender"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/whatwg-url"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/webidl-conversions": "*"
+    },
+    "typesPublisherContentHash": "df42b951a187d53b8226bc90e1cd8dc65499c67c7680303cab61a13b532a27f3",
+    "typeScriptVersion": "4.5"
+}
